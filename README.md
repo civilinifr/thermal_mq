@@ -10,4 +10,4 @@ Items include:
 - *resp.pkl*: Instrument response curves obtained from Nunn et al. [2020] (DOI: https://doi.org/10.1007/s11214-020-00709-3)
 
 Note:
-Civilini et al. [2021] catalog (DOI: https://doi.org/10.1093/gji/ggab083) from the supplementary materials of that paper is **required** for *extract_evids.py* and *fine_tune_detection.py*. Thbe article is open-access and the supplementary files can be found at the bottom of the webpage. 
+Civilini et al. [2021] catalog (DOI: https://doi.org/10.1093/gji/ggab083) from the supplementary materials of that paper is **required** for *extract_evids.py* and *fine_tune_detection.py*. The article is open-access and the supplementary files can be found at the bottom of the webpage. 
